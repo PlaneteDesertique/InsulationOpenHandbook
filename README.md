@@ -11,10 +11,10 @@ However, this is merely a collection of information found elsewhere, and I canno
 ## Contents
 
 - [Insulation Materials](Insulation_Materials.md)
-- Metal Patterns:
+- [Metal Patterns](Metal_Patterns/Metal_Patterns.md)
 - Charts:
    - [Rigid Insulation Sizes](Rigid_Insulation_Size_Charts.md)
-   - [Metal Stretch-Out Sizes](Metal_Size_Chart.md)
+   - [Metal Sizes](Metal_Size_Charts.md)
 
 ## Delete this section
 
