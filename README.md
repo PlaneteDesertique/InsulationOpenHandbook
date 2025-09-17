@@ -16,10 +16,6 @@ However, this is merely a collection of information found elsewhere, and I canno
    - [Rigid Insulation Sizes](Rigid_Insulation_Size_Charts.md)
    - [Metal Sizes](Metal_Size_Charts.md)
 
-## Delete this section
-
-[(Sheet metal guide I found)](https://www.jm.com/content/dam/jm/global/en/industrial-insulation/metal-jacketing/aluminum-roll-jacketing/JM_IND_Metal_Jacketing_Install_Guide.pdf)
-
 ## Copyright Information
 
 Usage of this work is permitted provided that this instrument is retained with this work, so that any entity that uses this work is notified of this instrument.
