@@ -8,6 +8,8 @@
 - [Outside Circumference](#outside-circumference-of-insulation-sizes-in-inches)
 - [Inside Diameter](#inside-diameter-of-insulation-by-nominal-pipe-size-in-inches-mm)
 
+All chart information on this page is from ASTM C585-22 ([here](https://store.astm.org/c0585-22.html)) and C585-90 ([here](https://dl.azmanco.com/standards/ASTM-C/ASTM-C-Series-Full/C/C585.pdf)).
+
 ## Outside Diameter of Insulation Sizes (in inches)
 
 Actual dimensions may vary by manufacturer's tolerance. In practice, these measurements tend to be small.
@@ -34,8 +36,6 @@ Actual dimensions may vary by manufacturer's tolerance. In practice, these measu
 11 |- | 15.00 |16.00 |17.00 |18.00 |19.00 |20.00 |21.00 |22.00
 12 |- | 16.00 |17.00 |18.00 |19.00 |20.00 |21.00 |22.00 |23.00
 14 |- | 17.00 |18.00 |19.00 |20.00 |21.00 |22.00 |23.00 |24.00
-
-Chart information from ASTM C585-22 ([here](https://store.astm.org/c0585-22.html)) ([delete this](https://m.doc88.com/p-08437803779765.html?r=1#)) and C585-90 ([here](https://dl.azmanco.com/standards/ASTM-C/ASTM-C-Series-Full/C/C585.pdf)).
 
 ## Outside Circumference of Insulation Sizes (in inches)
 
