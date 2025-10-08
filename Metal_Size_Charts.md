@@ -48,8 +48,8 @@ Length of cut, to the nearest ¼", including 3 inches of lap, "with allowance fo
 40|1016|-|- |⁴142¾| - |⁴149|- |-|
 42|1066|-|- |⁴149| - | -  | - |-|
 
-¹ Single layer insulation <br>
-³ Three-piece sections
+¹ Single layer insulation<br>
+³ Three-piece sections<br>
 ⁴ Four-piece sections
 
 Chart data from Johns Manville [here](https://www.jm.com/content/dam/jm/global/en/industrial-insulation/calcium-silicate/thermo-1200/IND-306-Thermo-1200-Stretch-Out-For-Jacketing.pdf) and [here](https://www.jm.com/content/dam/jm/global/en/industrial-insulation/perlite/sproule-wr-1200/IND-203-Sproule-WR-1200-Stretch-Outs-For-Jacketing1.pdf).
