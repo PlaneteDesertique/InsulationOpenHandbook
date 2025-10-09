@@ -1,5 +1,9 @@
  [⌂ Home](README.md)
  ----------
+ 
+# Insulation Materials
+
+## Rigid Materials
 
 ### Expanded Perlite
 
@@ -7,7 +11,7 @@ Expanded perlite is chosen for its low thermal conductivity, its corrosion resis
 
 Perlite's performance is comparable to calcium silicate, but is less dense with a lower compressive strength.
 
-Best cutting tool: Hand saw
+**Best cutting tool**: Hand saw
 
 |Max Temp|Min. Temp
 |---|---|
@@ -19,7 +23,7 @@ Best cutting tool: Hand saw
 
 Cellular glass is chosen for its consistancy while insulating at low temperatures.
 
-Best cutting tool: Hand saw
+**Best cutting tool**: Hand saw
 
 |Max Temp|Min. Temp|
 |---|---|
@@ -31,7 +35,7 @@ Best cutting tool: Hand saw
 
 Calcium Silicate's performance is comparable to expanded perlite while being more dense, but may be chosen for its high compressive strength.
 
-Best cutting tool: Hand saw
+**Best cutting tool**: Hand saw
 
 |Max Temp|Min. Temp|
 |---|---|
@@ -40,57 +44,7 @@ Best cutting tool: Hand saw
 - [JM ⎘](https://www.jm.com/en/industrial-insulation/calcium-silicate/)
 - [Example Safety Data Sheet ⎘](https://www.jm.com/content/dam/jm/global/en/MSDS/200000001952_US_EN.pdf)
 
-### Aerogel (Cryogel)
-
-Best cutting tool: Shears
-
-Type I (low temp):
-
-|Max Temp|Min. Temp|
-|---|---|
-|357|-321|
-
-Type III (high temp):
-
-|Max Temp|Min. Temp|
-|---|---|
-|1200|75|
-
-- [Example Safety Data Sheet ⎘](https://www.aerogel.com/wp-content/uploads/2021/06/Cryogel-Z-US-SDS-03.15.2024.pdf)
-
-### Fiberglass
-
-Best cutting tool: Knife
-
 ### Eurothane
-
-### EPDM (Armaflex)
-
-(ethylene propylene diene monomer rubber) (elastomeric)
-
-Best cutting tool: Knife
-
-|Max Temp|Min. Temp
-|---|---|
-|220|-297|
-
-- [Example Safety Data Sheet ⎘](https://www.armacell.com/sites/default/files/2025/06/18/ArmaFlex%20UT%20-%20Safety%20Datasheet%20-%20en-US.pdf)
-
-### Ceramic Wool (K-Wool)
-
-Best cutting tool: Knife
-
-- [Example Safety Data Sheet (US) ⎘](https://www.sealproweb.com/sds/K-Wool.pdf),  [(EU) ⎘](https://www.morganthermalceramics.com/media/nrzjps54/202-eu-english.pdf)
-
-### Mineral Wool (Rock Wool)
-
-|Max Temp|
-|---|
-|1200|
-
-[(link) ⎘](https://www.jm.com/content/dam/jm/global/en/insulation-systems/products/assets/selector-guide/jm-industrial-product-selector-guide.pdf)
-
-- [Example Safety Data Sheet ⎘](https://www.jm.com/content/dam/jm/global/en/MSDS/200000002057_US_EN.pdf)
 
 ### Polyisocyanurate (PIR)
 
@@ -113,6 +67,66 @@ A plastic foam with very low flammability. Will degrade under sunlight (or other
 Asbestos is no longer, and should never be, used as an insulation material.
 
 - [NIST Safety Data Sheet ⎘](https://tsapps.nist.gov/srmext/msds/8044-MSDS.pdf)
+
+## Non-Rigid Materials
+
+### Aerogel (Cryogel)
+
+**Best cutting tool**: Shears
+
+Type I (low temp):
+
+|Max Temp|Min. Temp|
+|---|---|
+|357|-321|
+
+Type III (high temp):
+
+|Max Temp|Min. Temp|
+|---|---|
+|1200|75|
+
+- [Example Safety Data Sheet ⎘](https://www.aerogel.com/wp-content/uploads/2021/06/Cryogel-Z-US-SDS-03.15.2024.pdf)
+
+### Fiberglass
+
+**Best cutting tool**: Knife
+
+### EPDM (Armaflex)
+
+(ethylene propylene diene monomer rubber) (elastomeric)
+
+**Best cutting tool**: Knife
+
+|Max Temp|Min. Temp|
+|---|---|
+|220|-297|
+
+- [Example Safety Data Sheet ⎘](https://www.armacell.com/sites/default/files/2025/06/18/ArmaFlex%20UT%20-%20Safety%20Datasheet%20-%20en-US.pdf)
+
+### Ceramic Fiber Wool/Blanket (K-Wool)
+
+Ceramic fiber blankets & wool are versatile and able to withstand extremely high temperatures. Available in multiple grades with different compositions.
+
+Dust from this material is suspected of causing cancer when inhaled.
+
+**Best cutting tool**: Knife
+
+|Max Temp|
+|---|
+|[1742°F ⎘](https://www.ceceramicfiber.com/UploadFiles/Others/Ceramic-Fiber-Blanket-Data-Sheet.pdf) - [3000°F ⎘](https://www.ceramaterials.com/wp-content/uploads/2021/12/CM_TDS_Ceramic_Blanket_PCW_12_21.pdf)|
+
+- [Example Safety Data Sheet (US) ⎘](https://www.sealproweb.com/sds/K-Wool.pdf),  [(EU) ⎘](https://www.morganthermalceramics.com/media/nrzjps54/202-eu-english.pdf)
+
+### Mineral Wool (Rock Wool)
+
+|Max Temp|
+|---|
+|1200|
+
+[(link) ⎘](https://www.jm.com/content/dam/jm/global/en/insulation-systems/products/assets/selector-guide/jm-industrial-product-selector-guide.pdf)
+
+- [Example Safety Data Sheet ⎘](https://www.jm.com/content/dam/jm/global/en/MSDS/200000002057_US_EN.pdf)
 
 -----
 
