@@ -1,6 +1,12 @@
  [⌂ Home](README.md)
  ----------
 
+### Contents:
+- [Stretch-Out](#stretch-out-measurement)
+- [Long Radius 90's](#pressed-90-elbow-sizes-long-radius)
+- [Short Radius 90's](#pressed-90-elbow-sizes-short-radius)
+
+
 ## Stretch-out measurement
 
 Length of cut, to the nearest ¼", including 3 inches of lap, "with allowance for manufacturer’s tolerance in thickness of pipe insulation", but *not* including allowance for a folded safety edge.
