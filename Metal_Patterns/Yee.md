@@ -31,7 +31,7 @@ Now transfer lines at a 45° angle down from the side view and connect them to s
 
 Now connect between tick marks and draw in our curved line.
 
-![Fig. 2.7](/Metal_Patterns/img/Yee/fig2.8.png)
+![Fig. 2.7](/Metal_Patterns/img/Yee/fig2.7.png)
 
 Getting rid of all the nonessential lines our template is ready for use.
 
